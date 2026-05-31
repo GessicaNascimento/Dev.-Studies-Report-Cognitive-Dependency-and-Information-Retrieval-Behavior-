@@ -1,6 +1,5 @@
-# Dev.-Studies-Report-Cognitive-Dependency-and-Information-Retrieval-Behavior-
+# Dev.-Studies-Report-Cognitive-Dependency-and-Information-Retrieval-Behavior
 
-# Dev_Studies_Report---Personal-Learning-Architecture-and-Cognitive-Model-Construction
 
 ## Dev Studies Report
 **Report:** Personal Learning Architecture and Cognitive Model Construction
