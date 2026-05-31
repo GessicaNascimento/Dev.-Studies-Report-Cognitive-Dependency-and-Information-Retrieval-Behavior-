@@ -1,4 +1,4 @@
-# Dev.-Studies-Report-Cognitive-Dependency-and-Information-Retrieval-Behavior
+# Dev-Studies-Report-Cognitive-Dependency-and-Information-Retrieval-Behavior
 
 
 ## Dev Studies Report
